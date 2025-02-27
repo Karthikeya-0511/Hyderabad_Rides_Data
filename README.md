@@ -62,7 +62,7 @@
 <section class="about">
             <h2>📢 About Me</h2>
             <p>👨‍💻 <b>Karthikeya Sriramoju</b> – A passionate <b>Data Analyst</b> with expertise in <b>Power BI, SQL, and Python</b>.</p>
-            <p>🔗 <a href="linkedin.com/in/karthikeya-sriramoju" target="_blank">LinkedIn</a></p>
+            <p>🔗 <a href="https://www.linkedin.com/in/karthikeya-sriramoju/" target="_blank">LinkedIn</a></p>
         </section>
 
 </div>
