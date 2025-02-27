@@ -9,7 +9,7 @@
 
 <div class="container">
         <header>
-            <h1>🚀 Hyderabad Ride Data - Power BI Dashboard</h1>
+            <h1> Hyderabad Ride Data - Power BI Dashboard</h1>
             <p>A data-driven analysis of ride-sharing trends in Hyderabad.</p>
         </header>
 
