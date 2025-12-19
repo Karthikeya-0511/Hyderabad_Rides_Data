@@ -46,7 +46,7 @@
             </pre>
             <p>Open <b>RAPIDO1.pbix</b> in Power BI Desktop.</p>
  <h3>Option 2: Direct Download</h3>
-            <p>Click <a href="[https://github.com/Karthikeya-0511/Hyderabad_Rides_Data.git](https://app.powerbi.com/view?r=eyJrIjoiYjcwNmRhM2YtODRiNi00N2MxLTk2ZmEtMzg2NWEyZTBjYzkzIiwidCI6IjFjN2ZhMjViLTJiNTQtNDhmMi05Y2Q5LTZiMmU0ZDg2ZDRkZCJ9)" target="_blank">here</a> to view the dashboard.</p>
+            <p>Click <a href="https://github.com/Karthikeya-0511/Hyderabad_Rides_Data.git](https://app.powerbi.com/view?r=eyJrIjoiYjcwNmRhM2YtODRiNi00N2MxLTk2ZmEtMzg2NWEyZTBjYzkzIiwidCI6IjFjN2ZhMjViLTJiNTQtNDhmMi05Y2Q5LTZiMmU0ZDg2ZDRkZCJ9)" target="_blank">here</a> to view the dashboard.</p>
 </section>
 <section class="tools">
             <h2>🛠 Tools Used</h2>
